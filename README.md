@@ -1,6 +1,10 @@
 # Expense Tracker with Analytics
 React + Node + Express only (no database, no auth library). Data lives in memory and is re-seeded on every server start.
 
+## 🚀 Live Deployment
+
+🔗 **Live Demo:** [Click Here](https://expense-tracker-with-analytics-z9rk.onrender.com/)
+
 ## Run
 ```
 npm install
